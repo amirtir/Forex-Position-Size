@@ -1,0 +1,5 @@
+C:\Users\amirt\OneDrive\دسکتاپ\Position-Size.exe
+C:\Users\amirt\OneDrive\دسکتاپ\Position-Size.dll
+C:\Users\amirt\OneDrive\دسکتاپ\Position-Size.deps.json
+C:\Users\amirt\OneDrive\دسکتاپ\Position-Size.runtimeconfig.json
+C:\Users\amirt\OneDrive\دسکتاپ\Position-Size.pdb

@@ -1,0 +1,15 @@
+C:\Users\amirt\source\repos\Position-Size\Position-Size\bin\Release\netcoreapp3.1\Position-Size.exe
+C:\Users\amirt\source\repos\Position-Size\Position-Size\bin\Release\netcoreapp3.1\Position-Size.deps.json
+C:\Users\amirt\source\repos\Position-Size\Position-Size\bin\Release\netcoreapp3.1\Position-Size.runtimeconfig.json
+C:\Users\amirt\source\repos\Position-Size\Position-Size\bin\Release\netcoreapp3.1\Position-Size.runtimeconfig.dev.json
+C:\Users\amirt\source\repos\Position-Size\Position-Size\bin\Release\netcoreapp3.1\Position-Size.dll
+C:\Users\amirt\source\repos\Position-Size\Position-Size\bin\Release\netcoreapp3.1\Position-Size.pdb
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position-Size.csprojAssemblyReference.cache
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position_Size.Form1.resources
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position-Size.csproj.GenerateResource.cache
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position-Size.AssemblyInfoInputs.cache
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position-Size.AssemblyInfo.cs
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position-Size.csproj.CoreCompileInputs.cache
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position-Size.dll
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position-Size.pdb
+C:\Users\amirt\source\repos\Position-Size\Position-Size\obj\Release\netcoreapp3.1\Position-Size.genruntimeconfig.cache
